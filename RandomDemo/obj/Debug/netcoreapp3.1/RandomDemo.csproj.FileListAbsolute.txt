@@ -1,0 +1,13 @@
+D:\STUDY\Aaa Subjects\FU5\PRN292\Source Code\RandomDemo\bin\Debug\netcoreapp3.1\RandomDemo.exe
+D:\STUDY\Aaa Subjects\FU5\PRN292\Source Code\RandomDemo\bin\Debug\netcoreapp3.1\RandomDemo.deps.json
+D:\STUDY\Aaa Subjects\FU5\PRN292\Source Code\RandomDemo\bin\Debug\netcoreapp3.1\RandomDemo.runtimeconfig.json
+D:\STUDY\Aaa Subjects\FU5\PRN292\Source Code\RandomDemo\bin\Debug\netcoreapp3.1\RandomDemo.runtimeconfig.dev.json
+D:\STUDY\Aaa Subjects\FU5\PRN292\Source Code\RandomDemo\bin\Debug\netcoreapp3.1\RandomDemo.dll
+D:\STUDY\Aaa Subjects\FU5\PRN292\Source Code\RandomDemo\bin\Debug\netcoreapp3.1\RandomDemo.pdb
+D:\STUDY\Aaa Subjects\FU5\PRN292\Source Code\RandomDemo\obj\Debug\netcoreapp3.1\RandomDemo.csprojAssemblyReference.cache
+D:\STUDY\Aaa Subjects\FU5\PRN292\Source Code\RandomDemo\obj\Debug\netcoreapp3.1\RandomDemo.AssemblyInfoInputs.cache
+D:\STUDY\Aaa Subjects\FU5\PRN292\Source Code\RandomDemo\obj\Debug\netcoreapp3.1\RandomDemo.AssemblyInfo.cs
+D:\STUDY\Aaa Subjects\FU5\PRN292\Source Code\RandomDemo\obj\Debug\netcoreapp3.1\RandomDemo.csproj.CoreCompileInputs.cache
+D:\STUDY\Aaa Subjects\FU5\PRN292\Source Code\RandomDemo\obj\Debug\netcoreapp3.1\RandomDemo.dll
+D:\STUDY\Aaa Subjects\FU5\PRN292\Source Code\RandomDemo\obj\Debug\netcoreapp3.1\RandomDemo.pdb
+D:\STUDY\Aaa Subjects\FU5\PRN292\Source Code\RandomDemo\obj\Debug\netcoreapp3.1\RandomDemo.genruntimeconfig.cache

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>ClassDemo</id>
+    <version>1.0.0</version>
+    <authors>ClassDemo</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.1" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\STUDY\Aaa Subjects\FU5\PRN292\Source Code\ClassDemo\bin\Debug\netcoreapp3.1\ClassDemo.runtimeconfig.json" target="lib\netcoreapp3.1\ClassDemo.runtimeconfig.json" />
+    <file src="D:\STUDY\Aaa Subjects\FU5\PRN292\Source Code\ClassDemo\bin\Debug\netcoreapp3.1\ClassDemo.dll" target="lib\netcoreapp3.1\ClassDemo.dll" />
+  </files>
+</package>

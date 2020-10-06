@@ -1,0 +1,13 @@
+D:\STUDY\Aaa Subjects\FU5\PRN292\Source Code\CollectionDemo\bin\Debug\netcoreapp3.1\CollectionDemo.exe
+D:\STUDY\Aaa Subjects\FU5\PRN292\Source Code\CollectionDemo\bin\Debug\netcoreapp3.1\CollectionDemo.deps.json
+D:\STUDY\Aaa Subjects\FU5\PRN292\Source Code\CollectionDemo\bin\Debug\netcoreapp3.1\CollectionDemo.runtimeconfig.json
+D:\STUDY\Aaa Subjects\FU5\PRN292\Source Code\CollectionDemo\bin\Debug\netcoreapp3.1\CollectionDemo.runtimeconfig.dev.json
+D:\STUDY\Aaa Subjects\FU5\PRN292\Source Code\CollectionDemo\bin\Debug\netcoreapp3.1\CollectionDemo.dll
+D:\STUDY\Aaa Subjects\FU5\PRN292\Source Code\CollectionDemo\bin\Debug\netcoreapp3.1\CollectionDemo.pdb
+D:\STUDY\Aaa Subjects\FU5\PRN292\Source Code\CollectionDemo\obj\Debug\netcoreapp3.1\CollectionDemo.csprojAssemblyReference.cache
+D:\STUDY\Aaa Subjects\FU5\PRN292\Source Code\CollectionDemo\obj\Debug\netcoreapp3.1\CollectionDemo.AssemblyInfoInputs.cache
+D:\STUDY\Aaa Subjects\FU5\PRN292\Source Code\CollectionDemo\obj\Debug\netcoreapp3.1\CollectionDemo.AssemblyInfo.cs
+D:\STUDY\Aaa Subjects\FU5\PRN292\Source Code\CollectionDemo\obj\Debug\netcoreapp3.1\CollectionDemo.csproj.CoreCompileInputs.cache
+D:\STUDY\Aaa Subjects\FU5\PRN292\Source Code\CollectionDemo\obj\Debug\netcoreapp3.1\CollectionDemo.dll
+D:\STUDY\Aaa Subjects\FU5\PRN292\Source Code\CollectionDemo\obj\Debug\netcoreapp3.1\CollectionDemo.pdb
+D:\STUDY\Aaa Subjects\FU5\PRN292\Source Code\CollectionDemo\obj\Debug\netcoreapp3.1\CollectionDemo.genruntimeconfig.cache

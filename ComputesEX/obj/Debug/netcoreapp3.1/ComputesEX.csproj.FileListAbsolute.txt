@@ -1,0 +1,12 @@
+D:\STUDY\Aaa Subjects\FU5\PRN292\Source Code\ComputesEX\bin\Debug\netcoreapp3.1\ComputesEX.exe
+D:\STUDY\Aaa Subjects\FU5\PRN292\Source Code\ComputesEX\bin\Debug\netcoreapp3.1\ComputesEX.deps.json
+D:\STUDY\Aaa Subjects\FU5\PRN292\Source Code\ComputesEX\bin\Debug\netcoreapp3.1\ComputesEX.runtimeconfig.json
+D:\STUDY\Aaa Subjects\FU5\PRN292\Source Code\ComputesEX\bin\Debug\netcoreapp3.1\ComputesEX.runtimeconfig.dev.json
+D:\STUDY\Aaa Subjects\FU5\PRN292\Source Code\ComputesEX\bin\Debug\netcoreapp3.1\ComputesEX.dll
+D:\STUDY\Aaa Subjects\FU5\PRN292\Source Code\ComputesEX\bin\Debug\netcoreapp3.1\ComputesEX.pdb
+D:\STUDY\Aaa Subjects\FU5\PRN292\Source Code\ComputesEX\obj\Debug\netcoreapp3.1\ComputesEX.AssemblyInfoInputs.cache
+D:\STUDY\Aaa Subjects\FU5\PRN292\Source Code\ComputesEX\obj\Debug\netcoreapp3.1\ComputesEX.AssemblyInfo.cs
+D:\STUDY\Aaa Subjects\FU5\PRN292\Source Code\ComputesEX\obj\Debug\netcoreapp3.1\ComputesEX.csproj.CoreCompileInputs.cache
+D:\STUDY\Aaa Subjects\FU5\PRN292\Source Code\ComputesEX\obj\Debug\netcoreapp3.1\ComputesEX.dll
+D:\STUDY\Aaa Subjects\FU5\PRN292\Source Code\ComputesEX\obj\Debug\netcoreapp3.1\ComputesEX.pdb
+D:\STUDY\Aaa Subjects\FU5\PRN292\Source Code\ComputesEX\obj\Debug\netcoreapp3.1\ComputesEX.genruntimeconfig.cache

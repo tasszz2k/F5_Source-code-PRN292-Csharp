@@ -1,0 +1,13 @@
+D:\STUDY\Aaa Subjects\FU5\PRN292\Source Code\ClassDemo\bin\Debug\netcoreapp3.1\ClassDemo.exe
+D:\STUDY\Aaa Subjects\FU5\PRN292\Source Code\ClassDemo\bin\Debug\netcoreapp3.1\ClassDemo.deps.json
+D:\STUDY\Aaa Subjects\FU5\PRN292\Source Code\ClassDemo\bin\Debug\netcoreapp3.1\ClassDemo.runtimeconfig.json
+D:\STUDY\Aaa Subjects\FU5\PRN292\Source Code\ClassDemo\bin\Debug\netcoreapp3.1\ClassDemo.runtimeconfig.dev.json
+D:\STUDY\Aaa Subjects\FU5\PRN292\Source Code\ClassDemo\bin\Debug\netcoreapp3.1\ClassDemo.dll
+D:\STUDY\Aaa Subjects\FU5\PRN292\Source Code\ClassDemo\bin\Debug\netcoreapp3.1\ClassDemo.pdb
+D:\STUDY\Aaa Subjects\FU5\PRN292\Source Code\ClassDemo\obj\Debug\netcoreapp3.1\ClassDemo.csprojAssemblyReference.cache
+D:\STUDY\Aaa Subjects\FU5\PRN292\Source Code\ClassDemo\obj\Debug\netcoreapp3.1\ClassDemo.AssemblyInfoInputs.cache
+D:\STUDY\Aaa Subjects\FU5\PRN292\Source Code\ClassDemo\obj\Debug\netcoreapp3.1\ClassDemo.AssemblyInfo.cs
+D:\STUDY\Aaa Subjects\FU5\PRN292\Source Code\ClassDemo\obj\Debug\netcoreapp3.1\ClassDemo.csproj.CoreCompileInputs.cache
+D:\STUDY\Aaa Subjects\FU5\PRN292\Source Code\ClassDemo\obj\Debug\netcoreapp3.1\ClassDemo.dll
+D:\STUDY\Aaa Subjects\FU5\PRN292\Source Code\ClassDemo\obj\Debug\netcoreapp3.1\ClassDemo.pdb
+D:\STUDY\Aaa Subjects\FU5\PRN292\Source Code\ClassDemo\obj\Debug\netcoreapp3.1\ClassDemo.genruntimeconfig.cache

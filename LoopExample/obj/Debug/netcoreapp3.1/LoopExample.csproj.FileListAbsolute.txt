@@ -1,0 +1,13 @@
+D:\STUDY\Aaa Subjects\FU5\PRN292\Source Code\LoopExample\bin\Debug\netcoreapp3.1\LoopExample.exe
+D:\STUDY\Aaa Subjects\FU5\PRN292\Source Code\LoopExample\bin\Debug\netcoreapp3.1\LoopExample.deps.json
+D:\STUDY\Aaa Subjects\FU5\PRN292\Source Code\LoopExample\bin\Debug\netcoreapp3.1\LoopExample.runtimeconfig.json
+D:\STUDY\Aaa Subjects\FU5\PRN292\Source Code\LoopExample\bin\Debug\netcoreapp3.1\LoopExample.runtimeconfig.dev.json
+D:\STUDY\Aaa Subjects\FU5\PRN292\Source Code\LoopExample\bin\Debug\netcoreapp3.1\LoopExample.dll
+D:\STUDY\Aaa Subjects\FU5\PRN292\Source Code\LoopExample\bin\Debug\netcoreapp3.1\LoopExample.pdb
+D:\STUDY\Aaa Subjects\FU5\PRN292\Source Code\LoopExample\obj\Debug\netcoreapp3.1\LoopExample.csprojAssemblyReference.cache
+D:\STUDY\Aaa Subjects\FU5\PRN292\Source Code\LoopExample\obj\Debug\netcoreapp3.1\LoopExample.AssemblyInfoInputs.cache
+D:\STUDY\Aaa Subjects\FU5\PRN292\Source Code\LoopExample\obj\Debug\netcoreapp3.1\LoopExample.AssemblyInfo.cs
+D:\STUDY\Aaa Subjects\FU5\PRN292\Source Code\LoopExample\obj\Debug\netcoreapp3.1\LoopExample.csproj.CoreCompileInputs.cache
+D:\STUDY\Aaa Subjects\FU5\PRN292\Source Code\LoopExample\obj\Debug\netcoreapp3.1\LoopExample.dll
+D:\STUDY\Aaa Subjects\FU5\PRN292\Source Code\LoopExample\obj\Debug\netcoreapp3.1\LoopExample.pdb
+D:\STUDY\Aaa Subjects\FU5\PRN292\Source Code\LoopExample\obj\Debug\netcoreapp3.1\LoopExample.genruntimeconfig.cache

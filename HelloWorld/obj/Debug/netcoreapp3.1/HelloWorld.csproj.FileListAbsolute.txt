@@ -1,0 +1,13 @@
+D:\STUDY\Aaa Subjects\FU5\PRN292\Source Code\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.exe
+D:\STUDY\Aaa Subjects\FU5\PRN292\Source Code\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.deps.json
+D:\STUDY\Aaa Subjects\FU5\PRN292\Source Code\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.runtimeconfig.json
+D:\STUDY\Aaa Subjects\FU5\PRN292\Source Code\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.runtimeconfig.dev.json
+D:\STUDY\Aaa Subjects\FU5\PRN292\Source Code\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.dll
+D:\STUDY\Aaa Subjects\FU5\PRN292\Source Code\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.pdb
+D:\STUDY\Aaa Subjects\FU5\PRN292\Source Code\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.csprojAssemblyReference.cache
+D:\STUDY\Aaa Subjects\FU5\PRN292\Source Code\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.AssemblyInfoInputs.cache
+D:\STUDY\Aaa Subjects\FU5\PRN292\Source Code\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.AssemblyInfo.cs
+D:\STUDY\Aaa Subjects\FU5\PRN292\Source Code\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.csproj.CoreCompileInputs.cache
+D:\STUDY\Aaa Subjects\FU5\PRN292\Source Code\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.dll
+D:\STUDY\Aaa Subjects\FU5\PRN292\Source Code\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.pdb
+D:\STUDY\Aaa Subjects\FU5\PRN292\Source Code\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.genruntimeconfig.cache

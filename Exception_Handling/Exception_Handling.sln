@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exception_Handling", "Exception_Handling.csproj", "{82800F9D-CDF9-4CE3-B623-0FDE8B809B05}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{82800F9D-CDF9-4CE3-B623-0FDE8B809B05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82800F9D-CDF9-4CE3-B623-0FDE8B809B05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82800F9D-CDF9-4CE3-B623-0FDE8B809B05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82800F9D-CDF9-4CE3-B623-0FDE8B809B05}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8971AA20-331B-413D-9E5B-01EB96829AC7}
+	EndGlobalSection
+EndGlobal
