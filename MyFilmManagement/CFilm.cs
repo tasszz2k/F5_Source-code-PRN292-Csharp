@@ -66,7 +66,7 @@ namespace MyFilmManagement
             set => dTotal = value;
         }
 
-        public override string ToString()
+        public string Intt()
         {
             return $"{nameof(SName)}: {SName}, {nameof(DLength)}: {DLength}, {nameof(SProducter)}: {SProducter}, {nameof(DPrice)}: {DPrice}, {nameof(DNumber)}: {DNumber}, {nameof(DTotal)}: {DTotal}";
         }

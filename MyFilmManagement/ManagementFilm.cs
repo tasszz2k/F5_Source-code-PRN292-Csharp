@@ -61,19 +61,21 @@ namespace MyFilmManagement
             foreach (CFilm cFilm in listCFilms)
             {
                 Console.WriteLine("\nInformation of film:");
-                Console.WriteLine(cFilm.ToString());
+                Console.WriteLine(cFilm.Intt());
             }
         }
 
-        public void search(String name)
+        public void search()
         {
+            Console.WriteLine("\nSearch\nEnter name film:");
+            String name = Console.ReadLine();
             Boolean isExist = false;
             foreach (CFilm cFilm in listCFilms)
             {
                 if (name.Equals(cFilm.SName))
                 {
                     Console.WriteLine("\nInformation of film:");
-                    Console.WriteLine(cFilm.ToString());
+                    Console.WriteLine(cFilm.Intt());
                     isExist = true;
                 }
             }

@@ -11,9 +11,8 @@ namespace MyFilmManagement
             ManagementFilm m = new ManagementFilm(listCFilms);
             m.InputData();
             m.Display();
-            Console.WriteLine("\nSearch\nEnter name film:");
-            String name = Console.ReadLine();
-            m.search(name);
+           
+            m.search();
         }
     }
 }
