@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.30503.244
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinformDemo", "WinformDemo.csproj", "{B1784FCD-C9D8-4371-A58C-7E37477D92CF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADVANCE CONTROL", "..\ADVANCE CONTROL\ADVANCE CONTROL.csproj", "{8AFA1CC2-D58F-4C55-8857-57960EF06836}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{B1784FCD-C9D8-4371-A58C-7E37477D92CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B1784FCD-C9D8-4371-A58C-7E37477D92CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B1784FCD-C9D8-4371-A58C-7E37477D92CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8AFA1CC2-D58F-4C55-8857-57960EF06836}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AFA1CC2-D58F-4C55-8857-57960EF06836}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AFA1CC2-D58F-4C55-8857-57960EF06836}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AFA1CC2-D58F-4C55-8857-57960EF06836}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

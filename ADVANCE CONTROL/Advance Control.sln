@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Advance Control EX1", "Advance Control EX1\Advance Control EX1.csproj", "{4A93E239-00A5-43A0-BA19-57AFD3B24C9D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Advance Control EX2", "Advance Control EX2\Advance Control EX2.csproj", "{CFAF559B-30E7-4F0C-BB16-B78348A9E93D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4A93E239-00A5-43A0-BA19-57AFD3B24C9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A93E239-00A5-43A0-BA19-57AFD3B24C9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A93E239-00A5-43A0-BA19-57AFD3B24C9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A93E239-00A5-43A0-BA19-57AFD3B24C9D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFAF559B-30E7-4F0C-BB16-B78348A9E93D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFAF559B-30E7-4F0C-BB16-B78348A9E93D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFAF559B-30E7-4F0C-BB16-B78348A9E93D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFAF559B-30E7-4F0C-BB16-B78348A9E93D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C61CCB77-546E-401C-9EB1-E47A157868EA}
+	EndGlobalSection
+EndGlobal

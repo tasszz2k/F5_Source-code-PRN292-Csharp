@@ -1,0 +1,10 @@
+D:\STUDY\Aaa Subjects\FU5\PRN292\Source Code\ADVANCE CONTROL\bin\Debug\ADVANCE CONTROL.exe.config
+D:\STUDY\Aaa Subjects\FU5\PRN292\Source Code\ADVANCE CONTROL\bin\Debug\ADVANCE CONTROL.exe
+D:\STUDY\Aaa Subjects\FU5\PRN292\Source Code\ADVANCE CONTROL\bin\Debug\ADVANCE CONTROL.pdb
+D:\STUDY\Aaa Subjects\FU5\PRN292\Source Code\ADVANCE CONTROL\obj\Debug\ADVANCE CONTROL.csprojAssemblyReference.cache
+D:\STUDY\Aaa Subjects\FU5\PRN292\Source Code\ADVANCE CONTROL\obj\Debug\ADVANCE_CONTROL.Form1.resources
+D:\STUDY\Aaa Subjects\FU5\PRN292\Source Code\ADVANCE CONTROL\obj\Debug\ADVANCE_CONTROL.Properties.Resources.resources
+D:\STUDY\Aaa Subjects\FU5\PRN292\Source Code\ADVANCE CONTROL\obj\Debug\ADVANCE CONTROL.csproj.GenerateResource.cache
+D:\STUDY\Aaa Subjects\FU5\PRN292\Source Code\ADVANCE CONTROL\obj\Debug\ADVANCE CONTROL.csproj.CoreCompileInputs.cache
+D:\STUDY\Aaa Subjects\FU5\PRN292\Source Code\ADVANCE CONTROL\obj\Debug\ADVANCE CONTROL.exe
+D:\STUDY\Aaa Subjects\FU5\PRN292\Source Code\ADVANCE CONTROL\obj\Debug\ADVANCE CONTROL.pdb
