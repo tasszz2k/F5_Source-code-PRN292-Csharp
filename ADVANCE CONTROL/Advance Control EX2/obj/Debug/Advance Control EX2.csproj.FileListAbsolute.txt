@@ -1,0 +1,10 @@
+D:\STUDY\Aaa Subjects\FU5\PRN292\Source Code\Advance Control\Advance Control EX2\bin\Debug\Advance Control EX2.exe.config
+D:\STUDY\Aaa Subjects\FU5\PRN292\Source Code\Advance Control\Advance Control EX2\bin\Debug\Advance Control EX2.exe
+D:\STUDY\Aaa Subjects\FU5\PRN292\Source Code\Advance Control\Advance Control EX2\bin\Debug\Advance Control EX2.pdb
+D:\STUDY\Aaa Subjects\FU5\PRN292\Source Code\Advance Control\Advance Control EX2\obj\Debug\Advance Control EX2.csprojAssemblyReference.cache
+D:\STUDY\Aaa Subjects\FU5\PRN292\Source Code\Advance Control\Advance Control EX2\obj\Debug\Advance_Control_EX2.Form1.resources
+D:\STUDY\Aaa Subjects\FU5\PRN292\Source Code\Advance Control\Advance Control EX2\obj\Debug\Advance_Control_EX2.Properties.Resources.resources
+D:\STUDY\Aaa Subjects\FU5\PRN292\Source Code\Advance Control\Advance Control EX2\obj\Debug\Advance Control EX2.csproj.GenerateResource.cache
+D:\STUDY\Aaa Subjects\FU5\PRN292\Source Code\Advance Control\Advance Control EX2\obj\Debug\Advance Control EX2.csproj.CoreCompileInputs.cache
+D:\STUDY\Aaa Subjects\FU5\PRN292\Source Code\Advance Control\Advance Control EX2\obj\Debug\Advance Control EX2.exe
+D:\STUDY\Aaa Subjects\FU5\PRN292\Source Code\Advance Control\Advance Control EX2\obj\Debug\Advance Control EX2.pdb

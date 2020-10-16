@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Advance Control EX1", "Adva
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Advance Control EX2", "Advance Control EX2\Advance Control EX2.csproj", "{CFAF559B-30E7-4F0C-BB16-B78348A9E93D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Advance Control EX3", "Advance Control EX3\Advance Control EX3.csproj", "{B1326109-659B-4BFF-A96A-A44A9EA8AD3E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LAB5 EX2", "LAB5 EX2\LAB5 EX2.csproj", "{EB149000-1815-4671-B1B8-6D2C32EE0287}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{CFAF559B-30E7-4F0C-BB16-B78348A9E93D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CFAF559B-30E7-4F0C-BB16-B78348A9E93D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CFAF559B-30E7-4F0C-BB16-B78348A9E93D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1326109-659B-4BFF-A96A-A44A9EA8AD3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1326109-659B-4BFF-A96A-A44A9EA8AD3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1326109-659B-4BFF-A96A-A44A9EA8AD3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1326109-659B-4BFF-A96A-A44A9EA8AD3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB149000-1815-4671-B1B8-6D2C32EE0287}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB149000-1815-4671-B1B8-6D2C32EE0287}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB149000-1815-4671-B1B8-6D2C32EE0287}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB149000-1815-4671-B1B8-6D2C32EE0287}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
