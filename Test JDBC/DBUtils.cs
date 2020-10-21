@@ -1,15 +1,27 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Data.SqlClient;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Data.SqlClient;
 
-namespace JDBC_Demo
+namespace Test_JDBC
 {
-    class DBSQLServerUtils
+    class DBUtils
     {
-        public static SqlConnection GetDBConnection(string datasource, string database, string username, string password)
+        public static SqlConnection GetDBConnection()
+        {
+            string datasource = @"TASS\TASSSQL";
+
+            string database = "CSharpDemo";
+            string username = "sa";
+            string password = "1";
+
+            return GetDBConnection(datasource, database, username, password);
+        }
+
+        public static SqlConnection
+            GetDBConnection(string datasource, string database, string username, string password)
         {
             //
             // Data Source=TRAN-VMWARE\SQLEXPRESS;Initial Catalog=simplehr;Persist Security Info=True;User ID=sa;Password=12345
@@ -21,5 +33,7 @@ namespace JDBC_Demo
 
             return conn;
         }
+
+
     }
 }
