@@ -1,0 +1,30 @@
+E:\Aptech\winform\EXERCISE\Exercise 06(Menu)\FilePad\FilePad\bin\Debug\FilePad.XML
+E:\Aptech\winform\EXERCISE\Exercise 06(Menu)\FilePad\FilePad\obj\Debug\FilePad.exe
+E:\Aptech\winform\EXERCISE\Exercise 06(Menu)\FilePad\FilePad\obj\Debug\FilePad.pdb
+E:\Aptech\winform\EXERCISE\Exercise 06(Menu)\FilePad\FilePad\bin\Debug\FilePad.exe.manifest
+E:\Aptech\winform\EXERCISE\Exercise 06(Menu)\FilePad\FilePad\bin\Debug\FilePad.application
+E:\Aptech\winform\EXERCISE\Exercise 06(Menu)\FilePad\FilePad\bin\Debug\FilePad.exe
+E:\Aptech\winform\EXERCISE\Exercise 06(Menu)\FilePad\FilePad\bin\Debug\FilePad.pdb
+E:\Aptech\winform\EXERCISE\Exercise 06(Menu)\FilePad\FilePad\obj\Debug\FilePad.frmAboutUs.resources
+E:\Aptech\winform\EXERCISE\Exercise 06(Menu)\FilePad\FilePad\obj\Debug\FilePad.frmDocument.resources
+E:\Aptech\winform\EXERCISE\Exercise 06(Menu)\FilePad\FilePad\obj\Debug\FilePad.frmFilePad.resources
+E:\Aptech\winform\EXERCISE\Exercise 06(Menu)\FilePad\FilePad\obj\Debug\FilePad.Properties.Resources.resources
+E:\Aptech\winform\EXERCISE\Exercise 06(Menu)\FilePad\FilePad\obj\Debug\FilePad.csproj.GenerateResource.Cache
+E:\Aptech\winform\EXERCISE\Exercise 06(Menu)\FilePad\FilePad\obj\Debug\FilePad.exe.manifest
+E:\Aptech\winform\EXERCISE\Exercise 06(Menu)\FilePad\FilePad\obj\Debug\FilePad.application
+D:\STUDY\Aaa Subjects\FU5\PRN292\Source Code\FilePad\FilePad\bin\Debug\FilePad.exe.manifest
+D:\STUDY\Aaa Subjects\FU5\PRN292\Source Code\FilePad\FilePad\bin\Debug\FilePad.application
+D:\STUDY\Aaa Subjects\FU5\PRN292\Source Code\FilePad\FilePad\bin\Debug\FilePad.XML
+D:\STUDY\Aaa Subjects\FU5\PRN292\Source Code\FilePad\FilePad\bin\Debug\FilePad.exe
+D:\STUDY\Aaa Subjects\FU5\PRN292\Source Code\FilePad\FilePad\bin\Debug\FilePad.pdb
+D:\STUDY\Aaa Subjects\FU5\PRN292\Source Code\FilePad\FilePad\obj\Debug\FilePad.csprojAssemblyReference.cache
+D:\STUDY\Aaa Subjects\FU5\PRN292\Source Code\FilePad\FilePad\obj\Debug\FilePad.frmAboutUs.resources
+D:\STUDY\Aaa Subjects\FU5\PRN292\Source Code\FilePad\FilePad\obj\Debug\FilePad.frmDocument.resources
+D:\STUDY\Aaa Subjects\FU5\PRN292\Source Code\FilePad\FilePad\obj\Debug\FilePad.frmFilePad.resources
+D:\STUDY\Aaa Subjects\FU5\PRN292\Source Code\FilePad\FilePad\obj\Debug\FilePad.Properties.Resources.resources
+D:\STUDY\Aaa Subjects\FU5\PRN292\Source Code\FilePad\FilePad\obj\Debug\FilePad.csproj.GenerateResource.cache
+D:\STUDY\Aaa Subjects\FU5\PRN292\Source Code\FilePad\FilePad\obj\Debug\FilePad.csproj.CoreCompileInputs.cache
+D:\STUDY\Aaa Subjects\FU5\PRN292\Source Code\FilePad\FilePad\obj\Debug\FilePad.exe.manifest
+D:\STUDY\Aaa Subjects\FU5\PRN292\Source Code\FilePad\FilePad\obj\Debug\FilePad.application
+D:\STUDY\Aaa Subjects\FU5\PRN292\Source Code\FilePad\FilePad\obj\Debug\FilePad.exe
+D:\STUDY\Aaa Subjects\FU5\PRN292\Source Code\FilePad\FilePad\obj\Debug\FilePad.pdb

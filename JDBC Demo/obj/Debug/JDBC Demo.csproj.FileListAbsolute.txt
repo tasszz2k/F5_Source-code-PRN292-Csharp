@@ -1,0 +1,10 @@
+D:\STUDY\Aaa Subjects\FU5\PRN292\Source Code\JDBC Demo\bin\Debug\JDBC Demo.exe.config
+D:\STUDY\Aaa Subjects\FU5\PRN292\Source Code\JDBC Demo\bin\Debug\JDBC Demo.exe
+D:\STUDY\Aaa Subjects\FU5\PRN292\Source Code\JDBC Demo\bin\Debug\JDBC Demo.pdb
+D:\STUDY\Aaa Subjects\FU5\PRN292\Source Code\JDBC Demo\obj\Debug\JDBC Demo.csprojAssemblyReference.cache
+D:\STUDY\Aaa Subjects\FU5\PRN292\Source Code\JDBC Demo\obj\Debug\JDBC_Demo.Form1.resources
+D:\STUDY\Aaa Subjects\FU5\PRN292\Source Code\JDBC Demo\obj\Debug\JDBC_Demo.Properties.Resources.resources
+D:\STUDY\Aaa Subjects\FU5\PRN292\Source Code\JDBC Demo\obj\Debug\JDBC Demo.csproj.GenerateResource.cache
+D:\STUDY\Aaa Subjects\FU5\PRN292\Source Code\JDBC Demo\obj\Debug\JDBC Demo.csproj.CoreCompileInputs.cache
+D:\STUDY\Aaa Subjects\FU5\PRN292\Source Code\JDBC Demo\obj\Debug\JDBC Demo.exe
+D:\STUDY\Aaa Subjects\FU5\PRN292\Source Code\JDBC Demo\obj\Debug\JDBC Demo.pdb

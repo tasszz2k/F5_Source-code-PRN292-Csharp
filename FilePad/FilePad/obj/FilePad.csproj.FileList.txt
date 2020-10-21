@@ -1,0 +1,15 @@
+bin\Debug\FilePad.exe
+bin\Debug\FilePad.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\FilePad.frmFilePad.resources
+obj\Debug\FilePad.Properties.Resources.resources
+obj\Debug\FilePad.csproj.GenerateResource.Cache
+obj\Debug\FilePad.exe
+obj\Debug\FilePad.pdb
+obj\Debug\FilePad.frmDocument.resources
+obj\Debug\FilePad.frmAboutUs.resources
+bin\Debug\FilePad.exe.manifest
+bin\Debug\FilePad.application
+obj\Debug\FilePad.exe.manifest
+obj\Debug\FilePad.application
+bin\Debug\FilePad.XML

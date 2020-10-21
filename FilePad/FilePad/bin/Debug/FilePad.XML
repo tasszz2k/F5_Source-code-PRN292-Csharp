@@ -1,0 +1,138 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>FilePad</name>
+    </assembly>
+    <members>
+        <member name="T:FilePad.frmAboutUs">
+            <summary>
+            Class frmAboutUs is used to display dialog box.
+            </summary>
+        </member>
+        <member name="M:FilePad.frmAboutUs.#ctor">
+            <summary>
+            Constructor without parameters to initialize the
+            controls for displaying the dialog box. 
+            </summary>
+        </member>
+        <member name="F:FilePad.frmAboutUs.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:FilePad.frmAboutUs.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:FilePad.frmAboutUs.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="T:FilePad.frmDocument">
+            <summary>
+            Class frmDocument is used to open document
+            </summary>
+        </member>
+        <member name="M:FilePad.frmDocument.#ctor">
+            <summary>
+            Constructor without parameters to initialize the
+            controls for displaying the document. 
+            </summary>
+        </member>
+        <member name="F:FilePad.frmDocument.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:FilePad.frmDocument.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:FilePad.frmDocument.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="T:FilePad.frmFilePad">
+            <summary>
+            Class frmFilePad is used to demonstrate the use of MDI application.
+            </summary>
+        </member>
+        <member name="M:FilePad.frmFilePad.#ctor">
+            <summary>
+            Constructor without parameters to initialize the
+            controls for displaying the frmFilePad form. 
+            </summary>
+        </member>
+        <member name="F:FilePad.frmFilePad.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:FilePad.frmFilePad.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:FilePad.frmFilePad.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="M:FilePad.Program.Main">
+            <summary>
+            The main entry point for the application.
+            </summary>
+        </member>
+        <member name="T:FilePad.Properties.Resources">
+            <summary>
+              A strongly-typed resource class, for looking up localized strings, etc.
+            </summary>
+        </member>
+        <member name="P:FilePad.Properties.Resources.ResourceManager">
+            <summary>
+              Returns the cached ResourceManager instance used by this class.
+            </summary>
+        </member>
+        <member name="P:FilePad.Properties.Resources.Culture">
+            <summary>
+              Overrides the current thread's CurrentUICulture property for all
+              resource lookups using this strongly typed resource class.
+            </summary>
+        </member>
+        <member name="P:FilePad.Properties.Resources.Help">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:FilePad.Properties.Resources.logo">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:FilePad.Properties.Resources.New">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:FilePad.Properties.Resources.Open">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:FilePad.Properties.Resources.Save">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+    </members>
+</doc>
