@@ -49,7 +49,8 @@ namespace JDBC_Demo
             UpdateDataListVIew();
 
             //set status button
-            SetStatusOfButtons(0);
+            SetStatusOfButtons(2);
+
 
         }
 
@@ -67,7 +68,7 @@ namespace JDBC_Demo
                 tbxCity.Text = customerSelected.City;
                 mtbxPhone.Text = customerSelected.Phone;
                 mtbxZipCode.Text = customerSelected.ZipCode;
-
+                SetStatusOfButtons(0);
             }
             else
             {
@@ -76,6 +77,7 @@ namespace JDBC_Demo
                 tbxCity.Text = "";
                 mtbxPhone.Text = "";
                 mtbxZipCode.Text = "";
+                SetStatusOfButtons(2);
             }
         }
 
@@ -115,7 +117,6 @@ namespace JDBC_Demo
             else
             {
                 MessageBox.Show("You have to input all text box!", "Error");
-
             }
             
         }
@@ -194,6 +195,15 @@ namespace JDBC_Demo
                     //set status button
                     btnSave.Enabled = true;
                     btnCancel.Enabled = true;
+
+                    btnAddNew.Enabled = false;
+                    btnEdit.Enabled = false;
+                    btnDelete.Enabled = false;
+                    break;
+                case 2:
+                    //set status button
+                    btnSave.Enabled = false;
+                    btnCancel.Enabled = false;
 
                     btnAddNew.Enabled = false;
                     btnEdit.Enabled = false;
