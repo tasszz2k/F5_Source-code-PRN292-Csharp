@@ -1,0 +1,10 @@
+C:\Users\TASS\source\repos\LAB10_1\bin\Debug\LAB10_1.exe.config
+C:\Users\TASS\source\repos\LAB10_1\bin\Debug\LAB10_1.exe
+C:\Users\TASS\source\repos\LAB10_1\bin\Debug\LAB10_1.pdb
+C:\Users\TASS\source\repos\LAB10_1\obj\Debug\LAB10_1.csprojAssemblyReference.cache
+C:\Users\TASS\source\repos\LAB10_1\obj\Debug\LAB10_1.LAB10_1.resources
+C:\Users\TASS\source\repos\LAB10_1\obj\Debug\LAB10_1.Properties.Resources.resources
+C:\Users\TASS\source\repos\LAB10_1\obj\Debug\LAB10_1.csproj.GenerateResource.cache
+C:\Users\TASS\source\repos\LAB10_1\obj\Debug\LAB10_1.csproj.CoreCompileInputs.cache
+C:\Users\TASS\source\repos\LAB10_1\obj\Debug\LAB10_1.exe
+C:\Users\TASS\source\repos\LAB10_1\obj\Debug\LAB10_1.pdb

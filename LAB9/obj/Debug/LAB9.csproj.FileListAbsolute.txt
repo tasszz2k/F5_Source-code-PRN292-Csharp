@@ -1,0 +1,10 @@
+C:\Users\TASS\source\repos\LAB9\bin\Debug\LAB9.exe.config
+C:\Users\TASS\source\repos\LAB9\bin\Debug\LAB9.exe
+C:\Users\TASS\source\repos\LAB9\bin\Debug\LAB9.pdb
+C:\Users\TASS\source\repos\LAB9\obj\Debug\LAB9.csprojAssemblyReference.cache
+C:\Users\TASS\source\repos\LAB9\obj\Debug\LAB9.Form1.resources
+C:\Users\TASS\source\repos\LAB9\obj\Debug\LAB9.Properties.Resources.resources
+C:\Users\TASS\source\repos\LAB9\obj\Debug\LAB9.csproj.GenerateResource.cache
+C:\Users\TASS\source\repos\LAB9\obj\Debug\LAB9.csproj.CoreCompileInputs.cache
+C:\Users\TASS\source\repos\LAB9\obj\Debug\LAB9.exe
+C:\Users\TASS\source\repos\LAB9\obj\Debug\LAB9.pdb
