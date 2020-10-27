@@ -18,6 +18,7 @@ namespace JDBC_Demo
         CountryDAO countryDao = new CountryDAO();
         List<CustomerModel> customers = new List<CustomerModel>();
         private CustomerModel customerSelected = new CustomerModel();
+
         public Form1()
         {
             InitializeComponent();
