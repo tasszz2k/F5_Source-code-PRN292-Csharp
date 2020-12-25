@@ -154,6 +154,7 @@ namespace LAB_WEB_4
             string orderID = (string)row.Cells[1].Text;
 
             Response.Redirect("DetailsOrders.aspx?OrderID="+orderID);
+            
         }
     }
 }

@@ -1,0 +1,7 @@
+D:\STUDY\Aaa Subjects\FU5\PRN292\Source Code\AnhDTHE141302\bin\AnhDTHE141302.dll.config
+D:\STUDY\Aaa Subjects\FU5\PRN292\Source Code\AnhDTHE141302\bin\AnhDTHE141302.dll
+D:\STUDY\Aaa Subjects\FU5\PRN292\Source Code\AnhDTHE141302\bin\AnhDTHE141302.pdb
+D:\STUDY\Aaa Subjects\FU5\PRN292\Source Code\AnhDTHE141302\obj\Debug\AnhDTHE141302.csprojAssemblyReference.cache
+D:\STUDY\Aaa Subjects\FU5\PRN292\Source Code\AnhDTHE141302\obj\Debug\AnhDTHE141302.csproj.CoreCompileInputs.cache
+D:\STUDY\Aaa Subjects\FU5\PRN292\Source Code\AnhDTHE141302\obj\Debug\AnhDTHE141302.dll
+D:\STUDY\Aaa Subjects\FU5\PRN292\Source Code\AnhDTHE141302\obj\Debug\AnhDTHE141302.pdb

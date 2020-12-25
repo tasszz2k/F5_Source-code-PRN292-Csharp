@@ -1,0 +1,20 @@
+E:\CaroForm\CaroForm\bin\Release\CaroForm.exe.config
+E:\CaroForm\CaroForm\bin\Release\CaroForm.exe
+E:\CaroForm\CaroForm\bin\Release\CaroForm.pdb
+E:\CaroForm\CaroForm\obj\Release\CaroForm.Form1.resources
+E:\CaroForm\CaroForm\obj\Release\CaroForm.Properties.Resources.resources
+E:\CaroForm\CaroForm\obj\Release\CaroForm.csproj.GenerateResource.cache
+E:\CaroForm\CaroForm\obj\Release\CaroForm.csproj.CoreCompileInputs.cache
+E:\CaroForm\CaroForm\obj\Release\CaroForm.exe
+E:\CaroForm\CaroForm\obj\Release\CaroForm.pdb
+E:\CaroForm\CaroForm\obj\Release\CaroForm.csprojAssemblyReference.cache
+D:\STUDY\Aaa Subjects\FU5\PRN292\Source Code\Caro-Lan-master\Caro-Lan-master\CaroForm\bin\Release\CaroForm.exe.config
+D:\STUDY\Aaa Subjects\FU5\PRN292\Source Code\Caro-Lan-master\Caro-Lan-master\CaroForm\bin\Release\CaroForm.exe
+D:\STUDY\Aaa Subjects\FU5\PRN292\Source Code\Caro-Lan-master\Caro-Lan-master\CaroForm\bin\Release\CaroForm.pdb
+D:\STUDY\Aaa Subjects\FU5\PRN292\Source Code\Caro-Lan-master\Caro-Lan-master\CaroForm\obj\Release\CaroForm.csprojAssemblyReference.cache
+D:\STUDY\Aaa Subjects\FU5\PRN292\Source Code\Caro-Lan-master\Caro-Lan-master\CaroForm\obj\Release\CaroForm.Form1.resources
+D:\STUDY\Aaa Subjects\FU5\PRN292\Source Code\Caro-Lan-master\Caro-Lan-master\CaroForm\obj\Release\CaroForm.Properties.Resources.resources
+D:\STUDY\Aaa Subjects\FU5\PRN292\Source Code\Caro-Lan-master\Caro-Lan-master\CaroForm\obj\Release\CaroForm.csproj.GenerateResource.cache
+D:\STUDY\Aaa Subjects\FU5\PRN292\Source Code\Caro-Lan-master\Caro-Lan-master\CaroForm\obj\Release\CaroForm.csproj.CoreCompileInputs.cache
+D:\STUDY\Aaa Subjects\FU5\PRN292\Source Code\Caro-Lan-master\Caro-Lan-master\CaroForm\obj\Release\CaroForm.exe
+D:\STUDY\Aaa Subjects\FU5\PRN292\Source Code\Caro-Lan-master\Caro-Lan-master\CaroForm\obj\Release\CaroForm.pdb

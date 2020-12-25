@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Data;
 using System.Data.SqlClient;
+using System.Drawing;
 using System.Linq;
 using System.Web;
 using System.Web.Configuration;
@@ -25,10 +26,12 @@ namespace LAB_WEB_4
                     dsPizza = FindPizzaByCode(pizzaCode);
                     if (dsPizza != null)
                     {
-                        lblCode.Text = dsPizza.Tables[0].Rows[0][0].ToString();
-                        lblName.Text = dsPizza.Tables[0].Rows[0][1].ToString();
-                        lblPrice.Text = dsPizza.Tables[0].Rows[0][2].ToString();
-                        lblPic.Text = dsPizza.Tables[0].Rows[0][3].ToString();
+                        
+                        //------------------- Detail View
+                        dvPizza.DataSource = dsPizza;
+
+                        dvPizza.DataBind();
+
 
                     }
                 }
@@ -73,8 +76,28 @@ namespace LAB_WEB_4
                     //close connection
                     cnn.Close();
                 }
-
                 return ds;
+            }
+        }
+
+        protected void dvPizza_ModeChanging(object sender, DetailsViewModeEventArgs e)
+        {
+            // Disable the paging feature in edit mode.
+            if (e.NewMode == DetailsViewMode.Edit)
+            {
+                dvPizza.AllowPaging = false;
+            }
+            else
+            {
+                dvPizza.AllowPaging = true;
+            }
+        }
+
+        protected void dvPizza_ModeChanging1(object sender, DetailsViewModeEventArgs e)
+        {
+            dvPizza.ChangeMode(e.NewMode);
+            {
+                dvPizza.BackColor = Color.Aquamarine;
             }
         }
     }

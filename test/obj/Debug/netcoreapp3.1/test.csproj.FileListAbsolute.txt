@@ -1,0 +1,13 @@
+D:\STUDY\Aaa Subjects\FU5\PRN292\Source Code\test\obj\Debug\netcoreapp3.1\test.csprojAssemblyReference.cache
+D:\STUDY\Aaa Subjects\FU5\PRN292\Source Code\test\obj\Debug\netcoreapp3.1\test.AssemblyInfoInputs.cache
+D:\STUDY\Aaa Subjects\FU5\PRN292\Source Code\test\obj\Debug\netcoreapp3.1\test.AssemblyInfo.cs
+D:\STUDY\Aaa Subjects\FU5\PRN292\Source Code\test\obj\Debug\netcoreapp3.1\test.csproj.CoreCompileInputs.cache
+D:\STUDY\Aaa Subjects\FU5\PRN292\Source Code\test\bin\Debug\netcoreapp3.1\test.exe
+D:\STUDY\Aaa Subjects\FU5\PRN292\Source Code\test\bin\Debug\netcoreapp3.1\test.deps.json
+D:\STUDY\Aaa Subjects\FU5\PRN292\Source Code\test\bin\Debug\netcoreapp3.1\test.runtimeconfig.json
+D:\STUDY\Aaa Subjects\FU5\PRN292\Source Code\test\bin\Debug\netcoreapp3.1\test.runtimeconfig.dev.json
+D:\STUDY\Aaa Subjects\FU5\PRN292\Source Code\test\bin\Debug\netcoreapp3.1\test.dll
+D:\STUDY\Aaa Subjects\FU5\PRN292\Source Code\test\bin\Debug\netcoreapp3.1\test.pdb
+D:\STUDY\Aaa Subjects\FU5\PRN292\Source Code\test\obj\Debug\netcoreapp3.1\test.dll
+D:\STUDY\Aaa Subjects\FU5\PRN292\Source Code\test\obj\Debug\netcoreapp3.1\test.pdb
+D:\STUDY\Aaa Subjects\FU5\PRN292\Source Code\test\obj\Debug\netcoreapp3.1\test.genruntimeconfig.cache
